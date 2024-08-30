@@ -16,9 +16,20 @@ Task 5:  Palindrome Checker
 Write a Python function that checks whether a given string is a palindrome. A palindrome is a word, phrase, or sequence that reads the same backward as forward (e.g., "madam" or "racecar").
 
 
-Level 2: 
-Task 1: 
-Task 2: 
-Task 3: 
-Task 4: 
-Task 5:
+Level 2:
+
+Task 1: Guessing Game
+Write a Python program that generates a random number between 1 and 100. The user should then try to guess the number. The program should provide hints such as "too high" or "too low" until the correct number is guessed.
+
+Task 2:  Number Guesser
+Create a number guessing game where the program generates a random number between a specified range, and the user tries to guess it. Provide feedback to the user if their guess is too high or too low.
+
+Task 3: Password Strength Checker
+Create a Python function that evaluates the strength of a password entered by the user. Implement checks for factors such as length, presence of uppercase and lowercase letters, digits, and special characters.
+
+Task 4: Fibonacci Sequence
+Write a Python function that generates the Fibonacci sequence up to a given number of terms. The function should take an integer input from the user and display the Fibonacci sequence up to that number of terms.
+
+Task 5: File Manipulation
+Write a Python program that reads a text file and counts the occurrences of each word in the file. Display the results in alphabetical order along with their respective counts.
+
